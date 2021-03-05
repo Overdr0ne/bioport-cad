@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name thumbstick-rescue)(type Legacy)(uri ${KIPRJMOD}/thumbstick-rescue.lib)(options "")(descr ""))
+  (lib (name thumbstick)(type Legacy)(uri /home/sam/src/nuflesh/cad/thumbstick/thumbstick.lib)(options "")(descr ""))
+)

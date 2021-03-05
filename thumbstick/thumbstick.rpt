@@ -1,0 +1,258 @@
+## Footprint report - date Sat Sep 16 22:27:07 2017
+## Created by Pcbnew version kicad 4.0.6
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 126.323571 66.465000
+lower_right_corner 160.135000 103.750000
+$EndBOARD
+
+$MODULE "J1"
+reference "J1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 142.000000 80.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "J2"
+reference "J2"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 148.500000 80.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "J3"
+reference "J3"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 142.000000 84.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$MODULE "J4"
+reference "J4"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 148.500000 84.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J4
+
+$MODULE "J5"
+reference "J5"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 135.500000 71.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J5
+
+$MODULE "J6"
+reference "J6"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 140.000000 71.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J6
+
+$MODULE "J7"
+reference "J7"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 144.500000 71.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J7
+
+$MODULE "J8"
+reference "J8"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 149.000000 71.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J8
+
+$MODULE "J9"
+reference "J9"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 153.500000 71.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J9
+
+$MODULE "R1"
+reference "R1"
+value "R"
+footprint "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+attribut none
+position 156.750000 84.750000  orientation 90.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  7.620000  0.000000  size  1.600000  1.600000  orientation 0.00
+drill  0.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "X1"
+reference "X1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 145.250000 99.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  X1
+
+$MODULE "XG1"
+reference "XG1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 148.000000 99.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  XG1
+
+$MODULE "XV1"
+reference "XV1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 142.500000 99.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  XV1
+
+$MODULE "Y1"
+reference "Y1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 136.500000 90.500000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Y1
+
+$MODULE "YG1"
+reference "YG1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 136.500000 93.250000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  YG1
+
+$MODULE "YV1"
+reference "YV1"
+value "CONN_01X01_MALE"
+footprint "Wire_Pads:SolderWirePad_single_1mmDrill"
+attribut none
+position 136.500000 88.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  2.499360  2.499360  orientation 0.00
+drill  1.000760
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  YV1
+
+$EndDESCRIPTION
