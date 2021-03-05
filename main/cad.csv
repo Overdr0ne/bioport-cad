@@ -1,0 +1,13 @@
+| Id | Designator           | Package                                        | Quantity | Designation            | Supplier and ref |
+|  1 | PRGM1                | PinSocket_1x03_P2.54mm_Vertical                |        1 | Conn_01x03_Male        |                  |
+|  2 | Abot1,Atop1,Buttons1 | PinSocket_1x05_P2.54mm_Vertical                |        3 | Conn_01x05_Male        |                  |
+|  3 | C1,C2                | 0603                                           |        2 | 1.0uF                  |                  |
+|  4 | C3,C4                | 0603                                           |        2 | 0.1uF                  |                  |
+|  5 | D1                   | LED-0603                                       |        1 | RED                    |                  |
+|  6 | IMU1                 | QFN24-3X3                                      |        1 | 9DoF IMU               |                  |
+|  7 | JP1                  | SMT-JUMPER_2_NC_TRACE_SILK                     |        1 | LED                    |                  |
+|  8 | LVL1                 | TSSOP-14_4.4x5mm_P0.65mm                       |        1 | TXB0104PW              |                  |
+|  9 | R1                   | 0603                                           |        1 | 220                    |                  |
+| 10 | REG1                 | SC70                                           |        1 | 1.8V/100mA             |                  |
+| 11 | U1                   | BT832-BT832L                                   |        1 | BT832L                 |                  |
+| 12 | BAT1                 | JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical |        1 | Conn_01x02_MountingPin |                  |
